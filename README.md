@@ -1,1 +1,1 @@
-# Rice-Leaf-Disease-detection-using-CNN-
+# Rice-Leaf-Disease-detection-using-CNN
